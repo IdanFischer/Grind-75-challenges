@@ -38,7 +38,7 @@ function isValidParentheses(str) {
 }
 
 console.log(isValidParentheses("[{()}]"))
-// arr = [ [ { ( ) } ] ] 
+// arr = [ [ { ] 
 //         0 1 2 3 4 5
 // ( { } )
 // ( { ) }
